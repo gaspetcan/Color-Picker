@@ -1,0 +1,57 @@
+.App {
+  text-align: center;
+  margin:200px;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.Button{
+  color:white;
+  font-size:24px;
+  height:150px;
+  width:150px;
+  font-weight: 600;
+  padding:20px;
+}
+
+
+.red{
+  background-color:red
+}
+
+.blue{
+  background-color:blue
+}
+
+.green{
+  background-color:green
+}
+
+.yellow{
+  background-color:yellow
+}
+
+.black{
+  background-color:black
+}
+
+.aqua{
+  background-color:aqua
+}
